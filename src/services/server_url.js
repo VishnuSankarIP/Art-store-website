@@ -1,0 +1,1 @@
+export const SERVER_URL="https://as-server-8tyt.onrender.com"
